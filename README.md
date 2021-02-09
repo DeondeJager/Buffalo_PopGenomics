@@ -12,4 +12,4 @@ The scripts are organised into self-explanatory folders. Folders and scripts are
 The raw sequence reads of all 40 buffalo genomes are available on the Sequence Read Archive (SRA) under the BioProject accession number PRJNA645266.
 Data to produce the figures are also provided as comma-separated values (CSV) files in the 03-Figures folder. The exception to this are the PSMC output files, since these are >500 MB and GitHub is not a data repository, but they are available from me upon request. They can be produced using the scripts provided in this repository.
 
-Please feel free to [contact me](mailto:dejager4@gmail.com) if you have any questions or data requests.
+Please feel free to contact me if you have any questions or data requests.
