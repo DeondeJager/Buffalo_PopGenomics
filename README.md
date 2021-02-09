@@ -1,7 +1,5 @@
-**High diversity, inbreeding and a dynamic Pleistocene demographic history revealed by African buffalo genomes**
-
-Deon de Jager, Brigitte Glanzmann, Marlo Möller, Eileen Hoal, Paul van Helden, Cindy Harper, Paulette Bloomer
-
+**High diversity, inbreeding and a dynamic Pleistocene demographic history revealed by African buffalo genomes**  
+Deon de Jager, Brigitte Glanzmann, Marlo Möller, Eileen Hoal, Paul van Helden, Cindy Harper, Paulette Bloomer  
 This manuscript has been accepted for publication in Scientific Reports. I will post a link here as soon as it is available online.
 
 # Summary
