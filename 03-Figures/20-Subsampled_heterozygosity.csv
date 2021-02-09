@@ -1,0 +1,13 @@
+Sample,CoverageCategory,Mean coverage,Heterozygosity
+A_243_14,Low (0.25 reads),1.72,0.001729543
+B98_509,Low (0.25 reads),1.87,0.002459741
+HC_32,Low (0.25 reads),2.27,0.002008601
+M_120_13,Low (0.25 reads),1.92,0.002547155
+A_243_14,Medium (0.5 reads),3.44,0.001964167
+B98_509,Medium (0.5 reads),3.74,0.002790659
+HC_32,Medium (0.5 reads),4.54,0.002295851
+M_120_13,Medium (0.5 reads),3.84,0.002864349
+A_243_14,High (1.0 reads),6.86,0.002291319
+B98_509,High (1.0 reads),7.46,0.003232477
+HC_32,High (1.0 reads),9.06,0.002645481
+M_120_13,High (1.0 reads),7.65,0.003290583

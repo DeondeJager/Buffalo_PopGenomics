@@ -1,0 +1,33 @@
+Species,Common name,Heterozygosity,Min_Het,Max_Het,Census,IUCNstatus
+Syncerus caffer caffer,MNP (Cape buffalo),0.003282016,0.00324949,0.003316097,400,NT
+Syncerus caffer caffer,KNP (Cape buffalo),0.003241352,0.002687849,0.003356302,40900,NT
+Syncerus caffer caffer,Cape buffalo,0.002880451,0.002102339,0.003356302,331017,NT
+Syncerus caffer caffer,HiP (Cape buffalo),0.002605942,0.002484253,0.002731626,4000,NT
+Ursus arctos,Brown bear,0.0025,0,0,110000,LC
+Syncerus caffer caffer,AENP (Cape buffalo),0.002216069,0.002102339,0.002291319,800,NT
+Gorilla gorilla,Western gorilla,0.0019,0,0,316000,CR
+Papio cynocephalus,Yellow baboon*,0.00168,0,0,1,LC
+Canis lupus,Grey wolf,0.00144,0.000459252,0.002176767,300000,LC
+Tursiops truncatus,Dolphin,0.00142,0,0,750000,LC
+Ailuropoda melanoleuca,Giant panda,0.00135,0,0,750,VU
+Pongo abelii,Sumatran orangutan,0.0012,0,0,13846,CR
+Panthera leo,Lion,0.0012,0,0,31000,VU
+Pan troglodytes,Chimpanzee,0.00117,0.0008,0.00176,236200,EN
+Oryx dammah,Scimitar-horned oryx,0.00097,0.00076,0.0011,15000,EW
+Puma concolor,Puma,0.000848,0.00033,0.00166,10000,LC
+Pan paniscus,Bonobo,0.0008,0.00065,0.00095,17500,EN
+Pongo pygmaeus,Bornean orangutan,0.00065,0,0,104700,CR
+Gorilla beringei,Eastern gorilla,0.00065,0,0,2600,CR
+Balaenoptera acutorostrata,Minke whale,0.00061,0,0,200000,LC
+Panthera tigris altaica,Siberian tiger,0.00061,0.00049,0.00073,360,EN
+Lynx lynx,Eurasion lynx,0.0004,0,0,8000,LC
+Ursus maritimus,Polar bear,0.00032,0,0,26000,VU
+Sarcophilus harrisii,Tasmanian devil,0.00032,0,0,17500,EN
+Gulo gulo,Wolverine,0.00028,0.00024,0.00032,580,LC
+Panthera uncia,Snow leopard,0.00023,0,0,3048,EN
+Lynx pardinus,Iberian lynx,0.00022,0.00012,0.00022,156,EN
+Orcinus orca,Orca,0.000214,0,0,50000,DD
+Acinonyx jubatus,Cheetah,0.0002,0.00019,0.00021,6674,VU
+Urocyon littoralis,Island fox,0.000125,0.0000142,0.000408,4001,NT
+Lipotes vexillifer,Baiji (dolphin),0.000121,0,0,10,CR
+Hyaena brunnea,Brown hyena,0.000121,0,0,7238,NT
