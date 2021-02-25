@@ -2,7 +2,7 @@
 
 Deon de Jager, Brigitte Glanzmann, Marlo Möller, Eileen Hoal, Paul van Helden, Cindy Harper, Paulette Bloomer  
 
-This manuscript has been accepted for publication in Scientific Reports. I will post a link here as soon as it is available online.
+The manuscript has been published in Scientific Reports, [here](https://www.nature.com/articles/s41598-021-83823-8).
 
 # Summary
 This repository contains the scripts used in the processing and analysis of the resequencing data for this study, as well as R scripts for producing some of the figures in the manuscript.
